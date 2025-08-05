@@ -618,7 +618,6 @@ transition: 1s;
     width: 180px;
     color: #fff;
     background-color: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(4px);
     transition: .45s;
     cursor: pointer;
 }
